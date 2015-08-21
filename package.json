@@ -1,7 +1,7 @@
 {
-  "name": "NodejsConsoleApp1",
+  "name": "nodejs",
   "version": "0.0.0",
-  "description": "NodejsConsoleApp1",
+  "description": "nodejs",
   "main": "app.js",
   "author": {
     "name": "alex",
